@@ -150,7 +150,7 @@ void levelOrder(TreeNode* root)
 }
 
 
-
+/*
 int main()
 {
 	TreeNode* root = new TreeNode(1);
@@ -172,4 +172,4 @@ int main()
 	cout << endl;
 	inOrderStack(root);
 	return 0;
-}
+}*/

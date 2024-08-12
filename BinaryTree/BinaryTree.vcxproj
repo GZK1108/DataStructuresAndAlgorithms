@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BanlancedBinaryTree.cpp" />
     <ClCompile Include="BinaryTree.cpp" />
+    <ClCompile Include="BinaryTreeSeries.cpp" />
+    <ClCompile Include="CommonAncestor.cpp" />
+    <ClCompile Include="NextNode.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

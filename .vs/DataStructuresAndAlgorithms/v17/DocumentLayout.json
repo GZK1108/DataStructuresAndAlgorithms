@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E26275B5-2DA0-4D41-B43E-6CB8FC875E80}|Graph\\Graph.vcxproj|C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\Graph\\GraphStructure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E26275B5-2DA0-4D41-B43E-6CB8FC875E80}|Graph\\Graph.vcxproj|solutionrelative:Graph\\GraphStructure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DBFDF8-0D9E-4AA7-929F-CCE7BE6CAAE4}|Hash\\Hash.vcxproj|C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\Hash\\Hash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67DBFDF8-0D9E-4AA7-929F-CCE7BE6CAAE4}|Hash\\Hash.vcxproj|solutionrelative:Hash\\Hash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CCCC5D-259C-412A-AF39-D35EE3FDC64C}|BinaryTree\\BinaryTree.vcxproj|C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\BinaryTreeSeries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2CCCC5D-259C-412A-AF39-D35EE3FDC64C}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\BinaryTreeSeries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CCCC5D-259C-412A-AF39-D35EE3FDC64C}|BinaryTree\\BinaryTree.vcxproj|C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\CommonAncestor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2CCCC5D-259C-412A-AF39-D35EE3FDC64C}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\CommonAncestor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CCCC5D-259C-412A-AF39-D35EE3FDC64C}|BinaryTree\\BinaryTree.vcxproj|C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\NextNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2CCCC5D-259C-412A-AF39-D35EE3FDC64C}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\NextNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CCCC5D-259C-412A-AF39-D35EE3FDC64C}|BinaryTree\\BinaryTree.vcxproj|C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\BanlancedBinaryTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2CCCC5D-259C-412A-AF39-D35EE3FDC64C}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\BanlancedBinaryTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2CCCC5D-259C-412A-AF39-D35EE3FDC64C}|BinaryTree\\BinaryTree.vcxproj|C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\BinaryTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E2CCCC5D-259C-412A-AF39-D35EE3FDC64C}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\BinaryTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533FC0A8-0119-4384-8A69-FDBDB6B11AFA}|Huiwen\\Huiwen.vcxproj|C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\Huiwen\\Huiwen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{533FC0A8-0119-4384-8A69-FDBDB6B11AFA}|Huiwen\\Huiwen.vcxproj|solutionrelative:Huiwen\\Huiwen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE78CAE0-9D2B-4F69-84F7-54158E58378A}|ListRing\\ListRing.vcxproj|C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\ListRing\\ListRing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,19 +51,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GraphStructure.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\Graph\\GraphStructure.cpp",
+              "RelativeDocumentMoniker": "Graph\\GraphStructure.cpp",
+              "ToolTip": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\Graph\\GraphStructure.cpp",
+              "RelativeToolTip": "Graph\\GraphStructure.cpp",
+              "ViewState": "AQIAABABAAAAAAAAAAAAABwBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T08:58:57.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinaryTreeSeries.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\BinaryTreeSeries.cpp",
+              "RelativeDocumentMoniker": "BinaryTree\\BinaryTreeSeries.cpp",
+              "ToolTip": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\BinaryTreeSeries.cpp",
+              "RelativeToolTip": "BinaryTree\\BinaryTreeSeries.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T08:29:28.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NextNode.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\NextNode.cpp",
+              "RelativeDocumentMoniker": "BinaryTree\\NextNode.cpp",
+              "ToolTip": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\NextNode.cpp",
+              "RelativeToolTip": "BinaryTree\\NextNode.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T08:26:34.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hash.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\Hash\\Hash.cpp",
+              "RelativeDocumentMoniker": "Hash\\Hash.cpp",
+              "ToolTip": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\Hash\\Hash.cpp",
+              "RelativeToolTip": "Hash\\Hash.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T07:10:52.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommonAncestor.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\CommonAncestor.cpp",
+              "RelativeDocumentMoniker": "BinaryTree\\CommonAncestor.cpp",
+              "ToolTip": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\CommonAncestor.cpp",
+              "RelativeToolTip": "BinaryTree\\CommonAncestor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T07:04:32.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BanlancedBinaryTree.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\BanlancedBinaryTree.cpp",
+              "RelativeDocumentMoniker": "BinaryTree\\BanlancedBinaryTree.cpp",
+              "ToolTip": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\BanlancedBinaryTree.cpp",
+              "RelativeToolTip": "BinaryTree\\BanlancedBinaryTree.cpp",
+              "ViewState": "AQIAALwAAAAAAAAAAAAEwNAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T06:17:19.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Huiwen.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\Huiwen\\Huiwen.cpp",
+              "RelativeDocumentMoniker": "Huiwen\\Huiwen.cpp",
+              "ToolTip": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\Huiwen\\Huiwen.cpp",
+              "RelativeToolTip": "Huiwen\\Huiwen.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvyYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T10:29:31.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BinaryTree.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\BinaryTree.cpp",
               "RelativeDocumentMoniker": "BinaryTree\\BinaryTree.cpp",
               "ToolTip": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\BinaryTree\\BinaryTree.cpp",
               "RelativeToolTip": "BinaryTree\\BinaryTree.cpp",
-              "ViewState": "AQIAAIkAAAAAAAAAAAAUwI0AAAAaAAAA",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAA8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-02T07:32:22.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T07:32:22.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "ListRing.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive - Hong Kong University\\CandC\u002B\u002B\\DataStructuresAndAlgorithms\\ListRing\\ListRing.cpp",
               "RelativeDocumentMoniker": "ListRing\\ListRing.cpp",
@@ -43,8 +155,7 @@
               "RelativeToolTip": "ListRing\\ListRing.cpp",
               "ViewState": "AQIAAA0AAAAAAAAAAAAUwDYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-02T06:45:36.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T06:45:36.975Z"
             }
           ]
         }
