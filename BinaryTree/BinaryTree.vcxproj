@@ -132,6 +132,7 @@
     <ClCompile Include="BinaryTreeSeries.cpp" />
     <ClCompile Include="CommonAncestor.cpp" />
     <ClCompile Include="NextNode.cpp" />
+    <ClCompile Include="PrefixTree.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

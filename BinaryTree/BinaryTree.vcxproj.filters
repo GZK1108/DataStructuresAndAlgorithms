@@ -30,5 +30,8 @@
     <ClCompile Include="BinaryTreeSeries.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="PrefixTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
